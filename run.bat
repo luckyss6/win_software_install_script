@@ -2,4 +2,4 @@
 
 setlocal enabledelayedexpansion
 
-for /f  %%i in (test.txt) do winget install %%i
+for /f  %%i in (test.txt) do winget install -e --id %%i

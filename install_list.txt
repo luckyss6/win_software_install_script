@@ -2,3 +2,14 @@ Google.Chrome
 Microsoft.VisualStudioCode
 Postman.Postman
 Termius.Termius
+Tencent.QQ.NT
+Tencent.WeChat
+Valve.Steam
+Microsoft.PowerToys
+Obsidian.Obsidian
+Git.Git
+Docker.DockerDesktop
+GoLang.Go
+Discord.Discord
+v2rayA.v2rayA
+Python.Python.3.13
