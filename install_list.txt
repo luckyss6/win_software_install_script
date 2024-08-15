@@ -1,0 +1,4 @@
+Google.Chrome
+Microsoft.VisualStudioCode
+Postman.Postman
+Termius.Termius
